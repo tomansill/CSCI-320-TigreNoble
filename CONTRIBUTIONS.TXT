@@ -1,0 +1,4 @@
+Kemoy Campbell: Did most of codings with PHP, HTML, and CSS. Helped some in the plannings.
+Thomas Ansill: Did all Stored Procedures, database tables. Did little in initial database data. Did some documentation. Did some plannings. Did the mini-project.
+Kabo Cheung: Did some documentation, did presentation, made up most initial database data. Proofreaded the mini-project.
+
